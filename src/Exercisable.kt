@@ -1,0 +1,3 @@
+interface Exercisable {
+    fun exercise()
+}
